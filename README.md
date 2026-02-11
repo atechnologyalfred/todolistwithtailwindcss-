@@ -8,11 +8,11 @@ https://github.com/atechnologyalfred/todolistwithtailwindcss-.git
 ## Installation
 Clone the repository: 
 
-git clone https://github.com/atechnologyalfred/todolistwithtailwindcss-.git
+git clone   https://atechnologyalfred.github.io/todolistwithtailwindcss-/
 
 ## Setup
 
-Go into the project folder:
+Go into the project folder: practice-javascript
 
 cd todolistwithtailwindcss
 
