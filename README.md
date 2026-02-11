@@ -3,7 +3,7 @@
 A simple todolist project built with TailwindCSS
 
 ## Live Demo
-https://github.com/atechnologyalfred/todolistwithtailwindcss-.git
+https://atechnologyalfred.github.io/todolistwithtailwindcss-/
 
 ## Installation
 Clone the repository: 
