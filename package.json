@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  },
+  "name": "practice-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx @tailwindcss/cli -i input.css -o output.css --watch",
+    "minify": "npx @tailwindcss/cli -i input.css -o output.css --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
